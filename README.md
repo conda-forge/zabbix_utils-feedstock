@@ -29,7 +29,7 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-zabbix_utils-green.svg)](https://anaconda.org/conda-forge/zabbix_utils) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/zabbix_utils.svg)](https://anaconda.org/conda-forge/zabbix_utils) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/zabbix_utils.svg)](https://anaconda.org/conda-forge/zabbix_utils) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/zabbix_utils.svg)](https://anaconda.org/conda-forge/zabbix_utils) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-zabbix__utils-green.svg)](https://anaconda.org/conda-forge/zabbix_utils) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/zabbix_utils.svg)](https://anaconda.org/conda-forge/zabbix_utils) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/zabbix_utils.svg)](https://anaconda.org/conda-forge/zabbix_utils) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/zabbix_utils.svg)](https://anaconda.org/conda-forge/zabbix_utils) |
 
 Installing zabbix_utils
 =======================
